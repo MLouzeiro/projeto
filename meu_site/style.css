@@ -43,7 +43,7 @@ iframe['style']{
 }
 
 /*BOX GERAL*/
-@media(max-width: 940px){.container{float: left; width: 100%;}}
+.container{float: left; width: 100%;}
 .content{display: block; margin: 0 auto; padding: 40px 0; width: 80%; max-width: 1200px;}
 .clear{clear: both;}
 .fontzero{font-size: 0;}
