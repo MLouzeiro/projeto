@@ -14,23 +14,47 @@
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
 }
+
+
 h1 {font-size: 2em; font-weight: 400;}
 /*tamanho da fonte*/
-h2 {font-size: 1.8em; font-weight: 600;}
-h3 {font-size: 1.5em; font-weight: 800;}
-p{margin-bottom: 15px;}
+h2 {
+    font-size: 1.8em; 
+    font-weight: 600;
+}
+h3 {
+    font-size: 1.5em; 
+    font-weight: 800;
+}
+p{
+    margin-bottom: 15px;
+}
 /*paragrafo*/
 b, strong{font-weight: bold;}
 /*elemento de destaque*/
 mark{padding: 5px 10px; background: #eee;}
 /*//elemento de marcação*/
 ul{list-style: none;}
-img{border: none; max-width: 100%; vertical-align: middle;}
+img{
+    border: none; 
+    max-width: 100%; 
+    vertical-align: middle;
+}
 /*imagem*/
-small{font-size: 0.75em; color: #555;}
-a{text-decoration: none; color: #09f;}
+small{
+    font-size: 0.75em; 
+    color: #555;
+}
+a{
+    text-decoration: none; color: #09f;}
 /*link*/
-a img{border: 0;}
+a img{
+    border: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
 
 /*MEDIAS*/
 object,
