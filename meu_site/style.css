@@ -52,10 +52,6 @@ a img{
     border: 0;
 }
 
-html {
-    scroll-behavior: smooth;
-}
-
 /*MEDIAS*/
 object,
 embed,
